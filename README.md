@@ -55,7 +55,7 @@
 <h2>📝 Contact me </h2>
 <div>
 <a href="https://github.com/otfeb"><img alt="RED" src ="https://img.shields.io/badge/Github-181717.svg?&style=flat&logo=GitHub&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"></a>
+<a href="https://lumpy-city-53a.notion.site/3a0cb26f37d24df1ba65fecdf5edfd57?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"></a>
 
 </div><br/>
 

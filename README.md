@@ -20,7 +20,7 @@
 | 기간 | 내용 | 역할 |
 | --- | --- | ---|
 | 2023.08 ~ 2023.09| <a href="https://github.com/otfeb/Sist_SemiProject.git">HYUGO</a> | 입점매장 페이지, 휴면계정 전환 및 해제, DB설계 |
-| 2023.11 ~ 2023.12| <a href="https://github.com/otfeb/Final_Project-4B-.git">4B</a> |  중고상품 검색, 결제 기능 구현 및 백엔드 개발, DB설계  |
+| 2023.11 ~ 2023.12| <a href="https://github.com/otfeb/Final_Project-4B-.git">4B</a> |  중고상품 검색, 마이페이지 ,결제 API, DB설계  |
 
 
 

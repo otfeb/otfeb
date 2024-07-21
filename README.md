@@ -1,4 +1,17 @@
 ![otfeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=otfeb&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hs970216)](https://solved.ac/hs970216/)
-<p align="center">  <img src="https://github-readme-activity-graph.vercel.app/graph?username=otfeb&theme=react-dark" alt="Contribution Graph" /></p>
-<p align="center">  <img src="https://github-readme-streak-stats.herokuapp.com/?user=otfeb&theme=radical" alt="otfeb" /></p>
+
+<h3 align="center">📫 Contact 📫</h3>
+<div align="center">
+  <a href="https://velog.io/@quro_97">
+    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
+  </a>
+  <a href="mailto:apeltms@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+  </a>
+  <a href="">
+    <img
+      src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>&nbsp
+  </a>
+</div>
